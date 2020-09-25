@@ -31,5 +31,4 @@ Untokenizable: ? (U+202C, decimal: 8236)
 如果不想分词，百度网盘我也上传了一个已经分词完成的cnn和dalymail，包括train，test，val文件和vocab.json词频文件。[链接](https://pan.baidu.com/s/1P3wARiRpyW5bHW7ZVLPnPA ) 提取码:7e0j
 
 
-
-如果有什么问题，请加我QQ:997251095或者QQ邮箱交流
+url_lists:链接链接：https://pan.baidu.com/s/1Z4O044sv-WjyotEqJw0dVA  提取码：3zpq
